@@ -1,1 +1,1 @@
-##Tripfee: Your own personal Trip "Fee" Fairy
+Travel prices for specific destination dates from multiple sources
